@@ -1,6 +1,6 @@
 # PHT Exoplanet Candidates
 
-Data and notebook for generating plots to examine the population of PHT planet candidates.
+Data and notebook for generating plots to examine the population of PHT planet candidates. The below plots were made using the list of TOIs as downloaded from ExoFOP on the 13th October 2021 (file: TOI_list.txt). This list can be updated at https://exofop.ipac.caltech.edu/tess/view_toi.php. The PHT planet candidates and their properties are listed in PHT_candidates_info.csv. More information on how the planet parameters were derived can be found in [Eisner et al. 2021](https://arxiv.org/abs/2011.13944). 
 
 
 ![fig1](./figures/PHT_candidate_period_radius_plot.png)
